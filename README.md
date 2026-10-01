@@ -1,3 +1,5 @@
+
+
 ### 🧬 VSCodium/VSCode: Security as Design
 
 - No root. No tracking. Just code - faster, safer, cleaner.
@@ -29,7 +31,7 @@
 # 🚧 Automatic installation takes a little more time, using the bootstrap.sh script takes time.
 # 🚧 Look for working scripts in the folder of the same name 
 
-⚠️ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/zx0r/VSCodium-Configuration/main/bootstrap.sh)"
+⚠️ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/zx0r/VSCodium-Configuration/main/scripts/bootstrap.sh)"
 ```
 
 🎉 After installation, VSCodium will be ready to use with full **GitHub Copilot** functionality and **Zero Trust Security** configuration applied.
